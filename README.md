@@ -8,7 +8,7 @@ Es una app web instalable (PWA) de un solo archivo, sin dependencias ni build. L
 
 1. Settings → Pages.
 2. Source: **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-3. Guardar. La app queda en `https://<usuario>.github.io/Musimark/`.
+3. Guardar. La app queda en `https://<usuario>.github.io/musimark/`.
 4. Abrir esa dirección en Chrome del teléfono → menú → **Instalar app**.
 
 Para que Pages funcione con el repositorio privado hace falta un plan pago de GitHub. Con una cuenta gratis, hay que hacerlo público.
